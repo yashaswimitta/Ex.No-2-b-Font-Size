@@ -1,32 +1,32 @@
-Ex.No:2 Develop an application that uses Font Size using Android Studio.
+# Ex.No:2 Develop an application that uses Font Size using Android Studio.
 
-AIM:
+## AIM:
 To develop an application that uses Font Size using android studio.
 
 
-EQUIPMENTS REQUIRED:
+## EQUIPMENTS REQUIRED:
 Android Studio(Min. required Artic Fox)
 
-ALGORITHM:
+## ALGORITHM:
 
-Step 1: Create a New Android Project: • Click New in the toolbar. • In the window that appears, open the Android folder, select Android Application Project, and click next. • Provide the application name and the project name and then finally give the desired package name. • Choose a launcher icon for your application and then select Blank Activity and then click Next • Provide the desired Activity name for your project and then click Finish.
+### Step 1: Create a New Android Project: • Click New in the toolbar. • In the window that appears, open the Android folder, select Android Application Project, and click next. • Provide the application name and the project name and then finally give the desired package name. • Choose a launcher icon for your application and then select Blank Activity and then click Next • Provide the desired Activity name for your project and then click Finish.
 
-Step 2: Create a New AVD (Android Virtual Device): • click Android Virtual Device Manager from the toolbar. • In the Android Virtual Device Manager panel, click New. • Fill in the details for the AVD. Give it a name, a platform target, an SD card size, and a skin (HVGA is default). • Click Create AVD and Select the new AVD from the Android Virtual Device Manager and click Start.
-
-
-Step 3: Design the graphical layout with a text view and two command buttons.
+### Step 2: Create a New AVD (Android Virtual Device): • click Android Virtual Device Manager from the toolbar. • In the Android Virtual Device Manager panel, click New. • Fill in the details for the AVD. Give it a name, a platform target, an SD card size, and a skin (HVGA is default). • Click Create AVD and Select the new AVD from the Android Virtual Device Manager and click Start.
 
 
-Step 4: Run the application.
+### Step 3: Design the graphical layout with a text view and two command buttons.
 
 
-Step 5:On pressing the change font size button, the size of the font gets altered.
+### Step 4: Run the application.
 
 
-Step 6:Close the Android project.
+### Step 5:On pressing the change font size button, the size of the font gets altered.
 
 
-Program:
+### Step 6:Close the Android project.
+
+
+## Program:
 /*
 Program to Develop an application that uses Font Size using Android Studio .
 Developed by: YASHASWI MITTA
@@ -104,12 +104,12 @@ activity_main.xml:
         tools:layout_editor_absoluteY="456dp" />
     </RelativeLayout>
 
-Output:
+## Output:
 
 ![image](https://user-images.githubusercontent.com/94619247/233847537-363887aa-4cd5-4343-b6d0-47238350ce9e.png)
 
 ![image](https://user-images.githubusercontent.com/94619247/233847547-784b69c0-dd54-44e2-ab11-b3a777e46c4a.png)
 
 
-Result:
+## Result:
 Thus, the program for android application, Font Size was executed successfully using Android Studio.
