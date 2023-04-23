@@ -97,9 +97,9 @@ activity_main.xml:
     </RelativeLayout>
 
 Output:
-233335826-9b2098b4-3c60-450a-99b0-93a270dcfe23
+![image](https://user-images.githubusercontent.com/94619247/233847537-363887aa-4cd5-4343-b6d0-47238350ce9e.png)
+![image](https://user-images.githubusercontent.com/94619247/233847547-784b69c0-dd54-44e2-ab11-b3a777e46c4a.png)
 
-233334461-dce72128-54f2-4864-9f6f-4ae904361edd
 
 Result:
 Thus, the program for android application, Font Size was executed successfully using Android Studio.
